@@ -43,4 +43,9 @@ Steps:
 	check with public IP.
 
 
+#output
+
+
+
+![9](https://github.com/Rizwankhan1717/Static_website/assets/113688628/ef5e0475-d1f6-49ae-b74b-f6196c95df34)
 
